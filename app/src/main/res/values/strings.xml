@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Recipe</string>
+
+    <string-array name="Category">
+        <item>Punjabi</item>
+        <item>South Indian</item>
+        <item>Chinese</item>
+        <item>Kathiyawadi</item>
+    </string-array>
+
+    <string-array name="PunjabiDishes">
+
+        <item>Chole Bhature</item>
+        <item>Masala Chana</item>
+        <item>Dal Makhani</item>
+    </string-array>
+
+    <string-array name="SouthIndianDishes">
+
+        <item>Appam</item>
+        <item>Sambar</item>
+        <item>Vada</item>
+    </string-array>
+
+    <string-array name="ChineseDishes">
+
+        <item>Noodles</item>
+        <item>Spring Roll</item>
+        <item>Vegges</item>
+    </string-array>
+
+    <string-array name="KathiyawadiDishes">
+
+        <item>Mix Spicy</item>
+        <item>Sev Tameta</item>
+        <item>Kaju Gathiya</item>
+    </string-array>
+
+    <string-array name="Description">
+
+        <item>Chole is the name for the larger and lighter coloured chickpea commonly found in the West. These are known as kabuli chana (काबुली चना) in Hindustani. Chana masala is fairly dry and spicy with a sour citrus note (the flavor usually comes from coriander and onion). Chana are usually replaced by chole in most restaurants,[clarification needed] and both versions are widely sold as snack food and street food in the Indian subcontinent.</item>
+        <item>Chana masala literally "mix-spiced small-chickpeas"),also known as channay,chole masala,chole or chholay (plural), is a dish originating from the Indian subcontinent.[1] The main ingredient is a variety of chickpea called chana (चना) or kala chana (meaning black chana). They are twice the diameter of typical chickpeas with a stronger flavour and firmer texture even after being cooked.</item>
+        <item>Dal makhani is a staple in the Indian subcontinent. It was popularized in India following partition, when many people from the Punjab migrated to the northern regions of India.[1] As the Punjabi diaspora migrated across India and internationally, the dish was introduced to new locales by entrepreneurial Punjabi migrants Kundan Lal Jaggi, Kundan Lal Gujral and Thakur Dass,[2] [3] who opened the Moti Mahal restaurant in Daryaganj, Delhi, India.[4]</item>
+        <item>Plain Appam or Vella Appam are bowl-shaped thin pancakes made from fermented rice flour. They derive their shape from the small appachatti in which they are cooked. They are fairly neutral in taste and mostly served with some spicy condiment or curry. These hoppers are made from a batter using rice, yeast, salt and a little sugar. After the mixture has stood for a couple of hours, it can be fried in the appachatti with a little oil. In south-central Kerala, it is mostly served with kadala curry, mutton or vegetable stew or egg roast.</item>
+        <item>Sambar, also spelled sambhar or sambaar, and pronounced saambaar, is a lentil-based vegetable stew or chowder, originating from the Indian subcontinent, cooked with a tamarind broth. It is popular in South Indian and Sri Lankan cuisines.</item>
+        <item>Medu vada (pronounced [meːd̪ʊ vəɽaː]; literally "soft vada") is a South Indian fritter made from Vigna mungo (black lentil or urad dal). It is usually made in a doughnut shape, with a crispy exterior and soft interior.</item>
+        <item>Noodle. Noodles are a staple food in many cultures. They are made from unleavened dough which is stretched, extruded, or rolled flat and cut into one of a variety of shapes. … Noodles are usually cooked in boiling water, sometimes with cooking oil or salt added.</item>
+        <item>A spring roll is a Chinese food consisting of a small roll of thin pastry filled with vegetables and sometimes meat, and then fried.</item>
+        <item>The exact definition of "vegetable" may vary simply because of the many parts of a plant consumed as food worldwide—roots, stems, leaves, flowers, fruits, and seeds. … The question of whether the tomato is a fruit or a vegetable found its way into the United States Supreme Court in 1893.</item>
+        <item>Preheat oven to 250 degrees. Place butter in a large microwave-safe bowl and microwave until melted. Stir all seasonings into butter. Add remaining ingredients to bowl, stir well and pour onto a large, rimmed baking sheet. Bake for 1 hour, 20 minutes. Remove from the oven every 20 minutes and give it a good stir.</item>
+        <item>Sev tameta nu shaak is a popular Gujarati style sweet and sour tomato curry prepared with tomato, sev, onion and other Indian curry spices. In this recipe, first tomatoes, onion and spices are sauteed in oil and then cooked with water, sev is added only toward its final stage of preparation.</item>
+        <item>In a cooking pan heat some oil and add Kaju and lightly saute them and remove from pan and keep aside In the same pan add hing to oil and add chopped onions and saute till onions turns light pinkish Add red chili powder, turmeric, coriander powder, garam masala and mix well and saute for 2–3 minutes add tomato pulp and saute again for 3 minutes on slow flame Add salt and sugar and mix well Add butter milk and mix well, add water if required to adjust consistency As mixture comes to boil add kaju and gathiya and mix well and let it cook for about 2 minutes Kaju Gathiya subzi is ready to be served Enjoy subzi with hot rotis.</item>
+
+    </string-array>
+
+</resources>
